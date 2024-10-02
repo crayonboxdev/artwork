@@ -4,12 +4,12 @@
 
 |Variant|Logo|Wordmark|
 |---|---|---|
-|default|![logo-default](./assets/logos/logo.svg)|![wordmark-default](./assets/logos/logo-wordmark.svg)|
-|download|[svg](./assets/logos/logo.svg), [png](./assets/logos/logo.png)|[svg](./assets/logos/logo-wordmark.svg), [png](./assets/logos/logo-wordmark.png)|
-|black|![logo-black](./assets/logos/logo--black.svg)|![wordmark-default](./assets/logos/logo-wordmark--dark.svg)|
-|download|[svg](./assets/logos/logo--black.svg), [png](./assets/logos/logo--black.png)|[svg](./assets/logos/logo-wordmark--dark.svg), [png](./assets/logos/logo-wordmark--dark.png)|
-|white|![logo-white](./assets/logos/logo--white.svg)|![wordmark-default](./assets/logos/logo-wordmark--light.svg)|
-|download|[svg](./assets/logos/logo--white.svg), [png](./assets/logos/logo--white.png)|[svg](./assets/logos/logo-wordmark--light.svg), [png](./assets/logos/logo-wordmark--light.png)|
+|default|![logo-default](./assets/logos/logo-square.svg)|![wordmark-default](./assets/logos/logo-wordmark.svg)|
+|download|[svg](./assets/logos/logo-square.svg), [png](./assets/logos/logo-square.png)|[svg](./assets/logos/logo-wordmark.svg), [png](./assets/logos/logo-wordmark.png)|
+|black|![logo-black](./assets/logos/logo-square--black.svg)|![wordmark-black](./assets/logos/logo-wordmark--black.svg)|
+|download|[svg](./assets/logos/logo-square--black.svg), [png](./assets/logos/logo-square--black.png)|[svg](./assets/logos/logo-wordmark--black.svg), [png](./assets/logos/logo-wordmark--black.png)|
+|white|![logo-white](./assets/logos/logo-square--white.svg)|![wordmark-white](./assets/logos/logo-wordmark--white.svg)|
+|download|[svg](./assets/logos/logo-square--white.svg), [png](./assets/logos/logo-square--white.png)|[svg](./assets/logos/logo-wordmark--white.svg), [png](./assets/logos/logo-wordmark--white.png)|
 
 ## Colors
 
