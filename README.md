@@ -6,9 +6,9 @@
 |---|---|---|
 |default|![logo-default](./assets/logos/logo-square.svg)|![wordmark-default](./assets/logos/logo-wordmark.svg)|
 |download|[svg](./assets/logos/logo-square.svg), [png](./assets/logos/logo-square.png)|[svg](./assets/logos/logo-wordmark.svg), [png](./assets/logos/logo-wordmark.png)|
-|black|![logo-black](./assets/logos/logo-square--black.svg)|![wordmark-black](./assets/logos/logo-wordmark--black.svg)|
+|black|![logo-black](./assets/preview/logo-square--black.preview.png)|![wordmark-black](./assets/preview/logo-wordmark--black.preview.png)|
 |download|[svg](./assets/logos/logo-square--black.svg), [png](./assets/logos/logo-square--black.png)|[svg](./assets/logos/logo-wordmark--black.svg), [png](./assets/logos/logo-wordmark--black.png)|
-|white|![logo-white](./assets/logos/logo-square--white.svg)|![wordmark-white](./assets/logos/logo-wordmark--white.svg)|
+|white|![logo-white](./assets/preview/logo-square--white.preview.png)|![wordmark-white](./assets/preview/logo-wordmark--white.preview.png)|
 |download|[svg](./assets/logos/logo-square--white.svg), [png](./assets/logos/logo-square--white.png)|[svg](./assets/logos/logo-wordmark--white.svg), [png](./assets/logos/logo-wordmark--white.png)|
 
 ## Colors
