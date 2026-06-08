@@ -23,6 +23,12 @@
 |![indigo](./assets/palette/Color-Indigo.png)|Indigo|`#5A2BB6`|`51/76/0/29`|`rgb(90,43,182)`|
 |![violet](./assets/palette/Color-Violet.png)|Violet|`#9C5FD0`|`25/54/0/18`|`rgb(156,95,208)`|
 
+## Design Tokens
+
+The palette and the canonical spectrum gradient are available as ready-to-use design
+tokens (CSS, Sass, Tailwind, TypeScript, and a DTCG JSON source of truth) in
+[`tokens/`](./tokens). See [`tokens/README.md`](./tokens/README.md) for usage.
+
 ## Typography
 
 Poppins, Open Sans

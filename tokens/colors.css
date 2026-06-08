@@ -1,0 +1,11 @@
+/* Generated from brand.tokens.json by tokens/build.py — do not edit by hand. */
+:root {
+  --cb-color-red: #D92121;
+  --cb-color-orange: #FF7034;
+  --cb-color-yellow: #FBBC2A;
+  --cb-color-green: #00C696;
+  --cb-color-blue: #1D75FB;
+  --cb-color-indigo: #5A2BB6;
+  --cb-color-violet: #9C5FD0;
+  --cb-gradient-brand: linear-gradient(73deg, #D92121 0%, #FF7034 17.4105%, #FBBC2A 31.7834%, #00C696 52.8219%, #1D75FB 71.9403%, #5A2BB6 87.6273%, #9C5FD0 100%);
+}

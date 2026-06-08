@@ -1,0 +1,32 @@
+{
+  "$description": "crayonbox.dev brand design tokens. Source of truth — edit this file, then run `python3 tokens/build.py` to regenerate the consumable formats. Follows the W3C Design Tokens (DTCG) format.",
+  "color": {
+    "$type": "color",
+    "$description": "The crayonbox.dev brand spectrum (warm to cool).",
+    "red":    { "$value": "#D92121", "$description": "rgb(217, 33, 33)" },
+    "orange": { "$value": "#FF7034", "$description": "rgb(255, 112, 52)" },
+    "yellow": { "$value": "#FBBC2A", "$description": "rgb(251, 188, 42)" },
+    "green":  { "$value": "#00C696", "$description": "rgb(0, 198, 150)" },
+    "blue":   { "$value": "#1D75FB", "$description": "rgb(29, 117, 251)" },
+    "indigo": { "$value": "#5A2BB6", "$description": "rgb(90, 43, 182)" },
+    "violet": { "$value": "#9C5FD0", "$description": "rgb(156, 95, 208)" }
+  },
+  "gradient": {
+    "brand": {
+      "$type": "gradient",
+      "$description": "Canonical crayonbox.dev spectrum gradient, as used in the logo. Angle (73deg) and stop offsets are taken directly from the logo artwork so CSS reproduces it identically.",
+      "$value": [
+        { "color": "{color.red}",    "position": 0 },
+        { "color": "{color.orange}", "position": 0.174105 },
+        { "color": "{color.yellow}", "position": 0.317834 },
+        { "color": "{color.green}",  "position": 0.528219 },
+        { "color": "{color.blue}",   "position": 0.719403 },
+        { "color": "{color.indigo}", "position": 0.876273 },
+        { "color": "{color.violet}", "position": 1 }
+      ],
+      "$extensions": {
+        "dev.crayonbox.angle": "73deg"
+      }
+    }
+  }
+}
